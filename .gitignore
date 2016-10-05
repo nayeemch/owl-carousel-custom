@@ -45,3 +45,7 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+owl-carousel-custom/.idea
+owl-carousel-custom/.sass-cache
+owl-carousel-custom/node_modules
