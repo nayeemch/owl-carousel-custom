@@ -1,5 +1,7 @@
 <h1>owl-carousel-custom</h1>
 
+Basic layout for synced responsive carousels with a set thumbnail navigation width/height and a set stage height.
+
 <p align="center">
 Desktop
 </p>
